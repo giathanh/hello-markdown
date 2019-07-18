@@ -12,6 +12,8 @@ echo('Hello PHP world');
 Ex:
 
 [Google](https://google.com "Google")
+- Link to file
+[Document Japanese](README-JP.md)
 
 ## Image
 - ![Alternate text](image link)
